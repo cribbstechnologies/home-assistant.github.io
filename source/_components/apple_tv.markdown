@@ -112,7 +112,7 @@ then device authentication is required. Press the icon in the upper left corner 
 
 Select `apple_tv` as domain, `apple_tv_authenticate` as service and enter `{"entity_id": "XXX"}` into "Service Data", but replace XXX with the entity id of your device (e.g. `media_player.apple_tv`). Press the button and hopefully you are presented with an input dialog asking for a pin code:
 
-<img src='/images/components/apple_tv/auth_start.jpg' />
+<img src='/images/components/apple_tv/auth_start.jpg'/>
 
 If no dialog appears, go back to the states view and display it from there (press `CONFIGURE` as displayed in the image):
 
